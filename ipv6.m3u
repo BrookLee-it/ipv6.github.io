@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -341,21 +341,95 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001152/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
 #EXTINF:-1 tvg-id="Bestv赛事7" tvg-name="Bestv赛事7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事7
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/index.m3u8
-#EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物频道",东方购物1
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001040/index.m3u8
-#EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物频道",东方购物2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001039/index.m3u8
-#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物频道",央广购物
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8
-#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="购物频道",优购物
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001440/index.m3u8
-#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="购物频道",好享购物
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001132/index.m3u8
-#EXTINF:-1 tvg-id="聚鲨精选" tvg-name="聚鲨精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="购物频道",聚鲨精选
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001138/index.m3u8
-#EXTINF:-1 tvg-id="家家购物" tvg-name="家家购物" tvg-logo="https://live.fanmingming.com/tv/家家购物.png" group-title="购物频道",家家购物
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001163/index.m3u8
-#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="购物频道",家有购物
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8
-#EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="https://live.fanmingming.com/tv/快乐购.png" group-title="购物频道",快乐购
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8
+#EXTINF:-1,tvg-id="咪咕视频4K[3840x2160]" tvg-name="咪咕视频4K[3840x2160]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频4K.png" group-title="赛事直播",咪咕视频4K[3840x2160]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226351/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226506/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226363/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226361/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226359/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226357/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226355/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226591/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226595/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226593/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226352/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226599/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226340/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226328/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226504/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226403/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226498/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226326/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226273/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226231/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226496/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226229/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226219/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226221/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226223/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226215/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226494/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226217/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226500/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226194/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226508/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226192/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226190/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226401/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226188/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226196/1.m3u8
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="赛事直播",咪咕视频[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226367/1.m3u8
+#EXTINF:-1,tvg-id="武林外传" tvg-name="武林外传" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/78/2664783515/u26647835159vB5axM.jpg" group-title="经典电视剧",武林外传
+https://www.goodiptv.club/yy/1354752120
+#EXTINF:-1,tvg-id="封神榜" tvg-name="封神榜" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/42/1834428187/u1834428187MNCcGiu.jpg" group-title="经典电视剧",封神榜
+https://www.goodiptv.club/yy/1353426319
+#EXTINF:-1,tvg-id="鹿鼎记" tvg-name="鹿鼎记" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/78/2664784453/u266478445378sqTJP.jpg" group-title="经典电视剧", 鹿鼎记-高清全集
+https://www.goodiptv.club/yy/1382704650
+#EXTINF:-1,tvg-id="济公游记" tvg-name="济公游记" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/73/2343733006/u2343733006mtJ6GAg.png" group-title="经典电视剧",济公游记
+https://www.goodiptv.club/yy/25519088
+#EXTINF:-1,tvg-id="知否知否" tvg-name="知否知否" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="经典电视剧",知否知否应是绿肥红瘦
+https://www.goodiptv.club/yy/21881901
+#EXTINF:-1,tvg-id="情满四合院" tvg-name="情满四合院" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/30/0339304432/u339304432y3mBvF0Q.jpg" group-title="经典电视剧",情满四合院
+https://www.goodiptv.club/yy/30736888
+#EXTINF:-1,tvg-id="父母爱情" tvg-name="父母爱情" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="经典电视剧",父母爱情
+https://www.goodiptv.club/yy/1382746276
+#EXTINF:-1,tvg-id="新白娘子传奇" tvg-name="新白娘子传奇" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/80/2563804211/u2563804211WcYp9iK.png" group-title="经典电视剧",新白娘子传奇
+https://www.goodiptv.club/yy/1354490667
